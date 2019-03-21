@@ -5,4 +5,3 @@ Test repo for learning git.
 * Learn git
 * Adopt a dog
 * Plant a tree
-* Change the World!
